@@ -1,2 +1,2 @@
-# Mi-p-gina-web
+# Mi-pagina-web
 HTML, CSS
